@@ -24,7 +24,7 @@ SimpliMeditate is designed for simplicity, allowing you to focus on what matters
 
 Ready to start your mindfulness journey? Download SimpliMeditate now:
 
-[Download SimpliMeditate](https://expo.dev/accounts/hasan2004/projects/meditation/builds/25c2c8e5-7d8e-46c5-aa5e-7eb4fc3f3f34)
+[Download SimpliMeditate](https://expo.dev/artifacts/eas/5ErUH8vmT7mH8NNvhN29EQ.apk)
 
 Or scan the QR code below with your device:
 
