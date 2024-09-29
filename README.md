@@ -1,50 +1,33 @@
-# Welcome to your Expo app 👋
+# SimpliMeditate: Your Path to Inner Peace
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Welcome to SimpliMeditate, the app designed to simplify your meditation practice and boost your positive mindset. In our fast-paced world, finding moments of tranquility can be challenging. SimpliMeditate is here to help you cultivate mindfulness and positive thinking with ease.
 
-## Get started
+## Key Features:
 
-1. Install dependencies
+1. **Nature Soundscapes**: Immerse yourself in calming audio from various natural settings, including mountains, rivers, beaches, and more.
+2. **Customizable Timer**: Set your preferred meditation duration to fit your schedule.
+3. **Affirmation Gallery**: Access a diverse collection of powerful affirmations categorized by themes such as Positivity, Reducing Anxiety, Success, Self-Belief, Mental Health, and Law of Attraction.
+4. **Visual Inspiration**: Each meditation and affirmation is paired with beautiful, calming imagery to enhance your experience.
 
-   ```bash
-   npm install
-   ```
+Whether you're a beginner or an experienced practitioner, SimpliMeditate offers a user-friendly interface and versatile tools to support your journey to inner peace and self-improvement.
 
-2. Start the app
+## How It Works:
 
-   ```bash
-    npx expo start
-   ```
+1. Choose from six different nature-themed meditations, each with its own unique soundscape.
+2. Set your desired meditation duration using the built-in timer.
+3. Close your eyes, listen to the soothing nature sounds, and let your mind relax.
+4. After your meditation, explore the affirmation gallery to reinforce positive thinking.
 
-In the output, you'll find options to open the app in a
+SimpliMeditate is designed for simplicity, allowing you to focus on what matters most - your mental well-being and personal growth.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Download SimpliMeditate
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Ready to start your mindfulness journey? Download SimpliMeditate now:
 
-## Get a fresh project
+[Download SimpliMeditate](https://expo.dev/accounts/hasan2004/projects/meditation/builds/86cc6817-a4ea-41de-b53c-c66e41198e84)
 
-When you're ready, run:
+Or scan the QR code below with your device:
 
-```bash
-npm run reset-project
-```
+![QR Code to download SimpliMeditate](./assets/ss.png)
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Begin your path to a calmer, more centered you with SimpliMeditate today!
